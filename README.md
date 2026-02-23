@@ -2,6 +2,13 @@
 
 A Python script that automatically organizes files into folders based on their type and extension.
 
+## Features
+- Preview files before moving them
+- Confirmation prompt before proceeding
+- Automatic operation log
+- Error handling
+- Skips hidden files and folders
+  
 ## How to use
 1. Clone the repo
 2. Run 'python organizer.py'
